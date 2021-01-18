@@ -3,7 +3,7 @@ As part of a Reinforcement Learning module, the task was to write a deep Q-learn
 
 The only code that needs to be run is train_and_test.py, this will extract a random environment from random_environment.py and complete the code in agent.py (which was written from scratch). After 10 minutes of training, the agent will then carry out its greedy policy. 
 
-Full description of the DQN implementation is in 
+Full description of the DQN implementation is in code_description.png
 
 An example for a fairly easy environment would be:
 
