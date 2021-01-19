@@ -5,6 +5,6 @@ The only code that needs to be run is train_and_test.py, this will extract a ran
 
 Full description of the DQN implementation is in code_description.png
 
-An example for a fairly easy environment would be:
+An example for a fairly easy environment would be, where the goal was reached in the optimal number of discretised steps:
 
 ![environment](https://user-images.githubusercontent.com/73748574/104965791-60b13900-59d7-11eb-95e4-7e7013708dd4.png)
